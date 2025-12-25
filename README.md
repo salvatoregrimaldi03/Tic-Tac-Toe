@@ -26,5 +26,5 @@ This project was developed in Python language.
 2. Open the project in IDLE or any similar IDE
 3. Execute the source code and enjoy it! :)
 
-##Built With
+## Built With
 [Python 3](https://www.python.org/) - Core language
